@@ -1,0 +1,6 @@
+@ScaleRuleAPI_HostAddress = http://localhost:5004
+
+GET {{ScaleRuleAPI_HostAddress}}/ScaleRuleAPI/
+Accept: application/json
+
+###
